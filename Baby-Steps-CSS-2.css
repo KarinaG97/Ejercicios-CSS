@@ -1,0 +1,105 @@
+body {
+    margin: 3em 20em;
+    text-align: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    color: midnightblue;
+    text-align: center;
+    margin: auto;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+ol {
+    font-size: 28px; 
+    list-style: none;
+    text-align: left;
+    font-weight: 600;
+    padding: 10px;
+    column-count: 4;
+    column-gap: 4rem;
+}
+
+li:nth-of-type(1) {
+    color: dimgray;
+}
+
+li:nth-of-type(2) {
+    color: cyan; 
+}
+
+li:nth-of-type(3) {
+    color: skyblue;
+}
+
+li:nth-of-type(4) {
+    color: fuchsia;
+}
+
+li:nth-of-type(5) {
+    color: purple;
+}
+
+li:nth-of-type(6) {
+    color: gray;
+}
+
+li:nth-of-type(7) {
+    color: red;
+}
+
+li:nth-of-type(8) {
+    color: orange;
+}
+
+li:nth-of-type(9) {
+    color: pink;
+}
+
+li:nth-of-type(10) {
+    color: violet;
+}
+
+li:nth-of-type(11) {
+    color: chocolate;
+}
+
+li:nth-of-type(12) {
+    color: yellow;
+}
+
+li:nth-of-type(13) {
+    color: lime;
+}
+
+li:nth-of-type(14) {
+    color: orchid;
+}
+
+li:nth-of-type(15) {
+    color: indigo;
+}
+
+li:nth-of-type(16) {
+    color: green;
+}
+
+li:nth-of-type(17) {
+    color: cadetblue;
+}
+
+li:nth-of-type(18) {
+    color: teal;
+}
+
+li:nth-of-type(19) {
+    color: midnightblue;
+}
+
+li:nth-of-type(20) {
+    color: royalblue;
+}

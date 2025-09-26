@@ -1,0 +1,22 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 3em 20em;
+    justify-content: center;
+    font-weight: 600;
+}
+
+h1 {
+    color: midnightblue;
+    text-align: center;
+    font-size: 42px;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: white    ;
+
+}
+
+div:nth-of-type(1)
