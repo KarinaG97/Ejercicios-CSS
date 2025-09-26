@@ -1,9 +1,8 @@
 body {
     font-family: "Poppins", sans-serif;
-    margin:10vw;
+    margin: 6vw 24vw;
     justify-content: center;
     font-weight: 600;
-
 }
 
 h1 {
@@ -15,8 +14,8 @@ h1 {
 section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-
-    
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    background-color: rgb(3, 52, 36);
 }
 
 section div {
@@ -25,7 +24,6 @@ section div {
     color: white;
     vertical-align: middle;
     line-height: 40px;
-    
 }
 
 div:nth-of-type(1) {
